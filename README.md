@@ -1,3 +1,2 @@
 # really-awesome-react-project
-Here is my not so awesome description!
-;lkjlkjklj
+Here is my description!
